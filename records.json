@@ -1,0 +1,18 @@
+{
+    "level_1": {
+        "score": 20,
+        "coins": 2,
+        "diamonds": 0,
+        "saved_mouse": false,
+        "saved_frog": false,
+        "time": 25
+    },
+    "level_2": {
+        "score": 290,
+        "coins": 4,
+        "diamonds": 1,
+        "saved_mouse": true,
+        "saved_frog": true,
+        "time": 50
+    }
+}
